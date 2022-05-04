@@ -185,7 +185,9 @@ body{
 }
 .contact__card-item.email{
     display:inline-block;
+
     padding-left:20px;
+
     font-size:14px;
     line-height:24px;
     color:#444
